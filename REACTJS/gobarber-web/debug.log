@@ -1,0 +1,2 @@
+[0711/143425.731:WARNING:minidump_to_upload_parameters.cc(36)] duplicate key guid, discarding value ecbc61d2-bc68-4006-a64e-48fa2f328a04
+[0713/161440.855:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
